@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on JS, CSS, HTML, ReactJS, Redux.
 - 🌱 I’m currently learning NodeJs(WannaBe Fullstack).
-- 👯 I’m looking to collaborate on [Linked In](https://linkedin.com/in/pankaj07).
+- 👯 I’m looking to collaborate on [LinkedIn](https://linkedin.com/in/pankaj07).
 - 🤔 I’m looking for a help in backend.
 - 💬 Ask me about Javascript or any tech related stuff. I can also help with NFTs, Crypto & Stock Market.
-- 📫 How to reach me: [Linked In](https://linkedin.com/in/pankaj07), [GMail](mailto:pankaj12.pj88@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/pankaj07), [GMail](mailto:pankaj12.pj88@gmail.com)
 - 😄 Pronouns: He/His
 
 
